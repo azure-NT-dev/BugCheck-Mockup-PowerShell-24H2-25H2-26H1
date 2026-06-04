@@ -14,7 +14,7 @@ Run the script `.\BugCheck-Mockup.ps1`
 
  > Press Escape at any time to close the simulation, it will **terminate the process and clean up everything**.
 
- **Short info about new BSOD (Windows 11, Version 24H2.): The new Black Screen of Death (BSOD) was introduced by Microsoft in 2025 as part of Windows 11 version 24H2.
+ **Short info about the new BSOD (Windows 11, Version 24H2.): The new Black Screen of Death (BSOD) was introduced by Microsoft in 2025 as part of Windows 11 version 24H2.
 It was introduced to make system crashes easier to understand and troubleshoot. The new design displays important technical information, such as the stop code and faulty driver, more clearly. Microsoft also wanted the crash screen to match the modern Windows 11 design and improve recovery after system failures.
 Compared to the old Blue Screen of Death, the new BSOD uses a black background, removes the sad-face icon and QR code, and presents a simpler, cleaner error message focused on helping users and IT administrators diagnose problems more quickly.**
 
