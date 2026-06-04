@@ -1,4 +1,4 @@
-# New Modern BSOD has arrived, more smooth, more realistic. 
+# New modern BSOD has arrived, more smooth, more realistic. 
 > This aims to replicate the new BSOD introduced with **Windows 11, version 24H2** and later releases.
 
  ## SET-UP: 
