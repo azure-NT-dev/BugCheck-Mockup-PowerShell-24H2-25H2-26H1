@@ -121,7 +121,8 @@ $form.BackColor = [System.Drawing.Color]::Black
 $form.FormBorderStyle = 'None'
 $form.WindowState = 'Maximized'
 $form.TopMost = $true
-$form.Cursor = [System.Windows.Forms.Cursors]::Hide
+$form.Cursor = [System.Windows.Forms.Cursors]::None
+$form.Add_Shown({ [System.Windows.Forms.Cursor]::Hide() })
 
 $form.Add_KeyDown({ if ($_.KeyCode -eq 'Escape') { Stop-Process -Id $PID -Force } })
 
