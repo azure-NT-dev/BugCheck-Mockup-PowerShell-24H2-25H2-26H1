@@ -6,7 +6,7 @@
  
 Navigate to your Downloads folder `cd C:\Users\YOURUSERNAME\Downloads`
 
-Enter the extracted project folder (the name may vary depending on GitHub archive): `cd .\BugCheck-Mockup-PowerShell-24H2-25H2-26H1-1.0.0\BugCheck-Mockup-PowerShell-24H2-25H2-26H1-1.0.0\`
+Enter the extracted project folder (the name may vary depending on GitHub archive): `cd .\Windows-11-24H2-BSOD\Windows-11-24H2-BSOD\`
 
 Allow script execution for this session (**required for unsigned scripts**) `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
 
