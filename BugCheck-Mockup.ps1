@@ -104,7 +104,7 @@ $stopCodes = @(
     @{ Code = "SYSTEM_THREAD_NOT_GRANTED_ACCESS (0xEA)"; Failed = "" },
     @{ Code = "DRIVER_RETURNED_STATUS_REPARSE_FOR_VOLUME_OPEN (0xED)"; Failed = "" },
     @{ Code = "HTTP_DRIVER_CORRUPTED (0xFA)"; Failed = "http.sys" },
-    @{ Code = "SECURE_KERNEL_ERROR (0x165)"; Failed = "securekernel.exe" },
+    @{ Code = "SECURE_KERNEL_ERROR (0x165)"; Failed = "" },
     @{ Code = "HYPERVISOR_ERROR (0x20001)"; Failed = "hvix64.sys" },
     @{ Code = "WINLOGON_FATAL_ERROR (0xC000021A)"; Failed = "winlogon.exe" },
     @{ Code = "DRIVER_RETURNED_HOLDING_LOCK (0xDE)"; Failed = "" },
